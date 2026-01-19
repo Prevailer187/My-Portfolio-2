@@ -4,3 +4,7 @@ I'm from Delta State but i reside in Abuja.
 Thank you Mr Durodola
 o "" >> README.md
 echo "About Me: about.md" >> README.md
+echo "" >> README.md
+echo "## Projects" >> README.md
+echo "- Git Basics" >> README.md
+
