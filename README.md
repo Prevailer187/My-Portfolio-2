@@ -5,6 +5,8 @@ Thank you Mr Durodola
 o "" >> README.md
 echo "About Me: about.md" >> README.md
 echo "" >> README.md
-echo "## Projects" >> README.md
+echo "## Projects: README.md< HEAD
 echo "- Git Basics" >> README.md
+echo "- DevOps Lab 1" >> README.md
+ feature/projects
 
